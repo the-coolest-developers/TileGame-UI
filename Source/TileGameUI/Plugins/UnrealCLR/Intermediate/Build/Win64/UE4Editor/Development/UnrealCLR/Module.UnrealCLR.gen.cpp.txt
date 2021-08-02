@@ -1,0 +1,10 @@
+D:\Projects\the-coolest-developers\TileGame\TileGame-UI\Source\TileGameUI\Plugins\UnrealCLR\Intermediate\Build\Win64\UE4Editor\Development\UnrealCLR\Definitions.UnrealCLR.h
+D:/Projects/the-coolest-developers/TileGame/TileGame-UI/Source/TileGameUI/Plugins/UnrealCLR/Intermediate/Build/Win64/UE4Editor/Inc/UnrealCLR/UnrealCLR.init.gen.cpp
+D:\Gaming Services\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Gaming Services\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:/Projects/the-coolest-developers/TileGame/TileGame-UI/Source/TileGameUI/Plugins/UnrealCLR/Intermediate/Build/Win64/UE4Editor/Inc/UnrealCLR/UnrealCLRLibrary.gen.cpp
+D:\Projects\the-coolest-developers\TileGame\TileGame-UI\Source\TileGameUI\Plugins\UnrealCLR\Source\UnrealCLR/Public/UnrealCLRLibrary.h
+D:\Projects\the-coolest-developers\TileGame\TileGame-UI\Source\TileGameUI\Plugins\UnrealCLR\Intermediate\Build\Win64\UE4Editor\Inc\UnrealCLR\UnrealCLRLibrary.generated.h
+D:/Projects/the-coolest-developers/TileGame/TileGame-UI/Source/TileGameUI/Plugins/UnrealCLR/Intermediate/Build/Win64/UE4Editor/Inc/UnrealCLR/UnrealCLRManager.gen.cpp
+D:\Projects\the-coolest-developers\TileGame\TileGame-UI\Source\TileGameUI\Plugins\UnrealCLR\Source\UnrealCLR/Public/UnrealCLRManager.h
+D:\Projects\the-coolest-developers\TileGame\TileGame-UI\Source\TileGameUI\Plugins\UnrealCLR\Intermediate\Build\Win64\UE4Editor\Inc\UnrealCLR\UnrealCLRManager.generated.h
