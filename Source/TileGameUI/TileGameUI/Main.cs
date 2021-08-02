@@ -7,7 +7,7 @@ namespace TileGameUI
 	{
 		// Indicates the main entry point for automatic loading by the plugin
 		public static void OnWorldBegin() =>
-			Debug.AddOnScreenMessage(-1, 10.0f, Color.DeepPink, "IT FINALLY WOOOOOOOOOOORRRRRRRRRKKKKSSSSSS!");
+			Debug.AddOnScreenMessage(-1, 10.0f, Color.DeepPink, "IT FINALLY WOOOOOOOOOOORRRRRRRRRKKKKSSSSSSыыыыы!");
 
 		public static void OnWorldPostBegin() => Debug.AddOnScreenMessage(-1, 10.0f, Color.DeepPink, "How's it going?");
 
