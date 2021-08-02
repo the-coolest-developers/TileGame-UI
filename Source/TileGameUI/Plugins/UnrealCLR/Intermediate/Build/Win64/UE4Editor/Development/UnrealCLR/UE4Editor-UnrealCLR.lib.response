@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UnrealCLR.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projects\the-coolest-developers\TileGame\TileGame-UI\Source\TileGameUI\Intermediate\Build\Win64\TileGameUIEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\Projects\the-coolest-developers\TileGame\TileGame-UI\Source\TileGameUI\Plugins\UnrealCLR\Intermediate\Build\Win64\UE4Editor\Development\UnrealCLR\Module.UnrealCLR.cpp.obj"
+"D:\Projects\the-coolest-developers\TileGame\TileGame-UI\Source\TileGameUI\Plugins\UnrealCLR\Intermediate\Build\Win64\UE4Editor\Development\UnrealCLR\Module.UnrealCLR.gen.cpp.obj"
+"D:\Projects\the-coolest-developers\TileGame\TileGame-UI\Source\TileGameUI\Plugins\UnrealCLR\Intermediate\Build\Win64\UE4Editor\Development\UnrealCLR\Default.rc2.res"
+/OUT:"D:\Projects\the-coolest-developers\TileGame\TileGame-UI\Source\TileGameUI\Plugins\UnrealCLR\Intermediate\Build\Win64\UE4Editor\Development\UnrealCLR\UE4Editor-UnrealCLR.lib"
+/INCLUDE:IMPLEMENT_MODULE_UnrealCLR
