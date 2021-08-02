@@ -89,20 +89,21 @@ output
 [Oo]bj/
 .vs
 
-UnrealCLR-1.29/.DS_Store
-UnrealCLR-1.29/Install/bin
-UnrealCLR-1.29/Install/obj
-UnrealCLR-1.29/Source/Managed/Framework/bin
-UnrealCLR-1.29/Source/Managed/Framework/obj
-UnrealCLR-1.29/Source/Managed/Runtime/bin
-UnrealCLR-1.29/Source/Managed/Runtime/obj
-UnrealCLR-1.29/Source/Managed/Tests/bin
-UnrealCLR-1.29/Source/Managed/Tests/obj
-UnrealCLR-1.29/Source/Native/Binaries
-UnrealCLR-1.29/Source/Native/Intermediate
-UnrealCLR-1.29/Source/Native/Managed
+Source/TileGameUI/UnrealCLR-1.29/.DS_Store
+Source/TileGameUI/UnrealCLR-1.29/Install/bin
+Source/TileGameUI/UnrealCLR-1.29/Install/obj
+Source/TileGameUI/UnrealCLR-1.29/Source/Managed/Framework/bin
+Source/TileGameUI/UnrealCLR-1.29/Source/Managed/Framework/obj
+Source/TileGameUI/UnrealCLR-1.29/Source/Managed/Runtime/bin
+Source/TileGameUI/UnrealCLR-1.29/Source/Managed/Runtime/obj
+Source/TileGameUI/UnrealCLR-1.29/Source/Managed/Tests/bin
+Source/TileGameUI/UnrealCLR-1.29/Source/Managed/Tests/obj
+Source/TileGameUI/UnrealCLR-1.29/Source/Native/Binaries
+Source/TileGameUI/UnrealCLR-1.29/Source/Native/Intermediate
+Source/TileGameUI/UnrealCLR-1.29/Source/Native/Managed
 
 .Rider
-Source\TileGameUI\Intermediate\ProjectFiles\.Rider\
+*.ini
 
-Saved
+Source/TileGameUI/Managed/Build
+Source/TileGameUI/Intermediate/Build/BuildRules
