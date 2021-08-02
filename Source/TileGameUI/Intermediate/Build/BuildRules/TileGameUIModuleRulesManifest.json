@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\the-coolest-developers\\TileGame\\TileGame-UI\\Source\\TileGameUI\\Source\\TileGameUI\\TileGameUI.Build.cs",
+		"D:\\Projects\\the-coolest-developers\\TileGame\\TileGame-UI\\Source\\TileGameUI\\Plugins\\UnrealCLR\\Source\\UnrealCLR\\UnrealCLR.Build.cs",
+		"D:\\Projects\\the-coolest-developers\\TileGame\\TileGame-UI\\Source\\TileGameUI\\Source\\TileGameUI.Target.cs",
+		"D:\\Projects\\the-coolest-developers\\TileGame\\TileGame-UI\\Source\\TileGameUI\\Source\\TileGameUIEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
