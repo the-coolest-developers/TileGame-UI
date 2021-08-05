@@ -106,5 +106,5 @@ Source/TileGameUI/UnrealCLR-1.29/Source/Native/Managed
 *.ini
 
 Source/TileGameUI/Managed/Build
-Source/TileGameUI/Intermediate/Build/BuildRules
-Source/TileGameUI/Saved/Logs
+Source/TileGameUI/Intermediate
+Source/TileGameUI/Saved
