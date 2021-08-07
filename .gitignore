@@ -89,6 +89,7 @@ output
 [Oo]bj/
 .vs
 
-Source/TileGameUI/Intermediate/AssetRegistryCache
-Source/TileGameUI/Intermediate/ProjectFiles/.Rider
-Source/TileGameUI/Intermediate/ReimportCache
+Source/DerivedDataCache
+Source/TileGameUI/Binaries/
+Source/TileGameUI/Intermediate/
+Source/TileGameUI/Saved/
