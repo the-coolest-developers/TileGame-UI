@@ -94,9 +94,11 @@ Source/TileGameUI/Binaries/
 Source/TileGameUI/Intermediate/
 Source/TileGameUI/Saved/
 Source/TileGameUI/Config/
+Source/TileGameUI/Managed/
 
-Source/TileGameUI/Plugins/UnrealCLR/Binaries
-Source/TileGameUI/Plugins/UnrealCLR/Intermediate
+Source/TileGameUI/Plugins/UnrealCLR/Binaries/
+Source/TileGameUI/Plugins/UnrealCLR/Intermediate/
+Source/TileGameUI/Plugins/UnrealCLR/Managed/
 
 UnrealCLR-1.30/.DS_Store
 UnrealCLR-1.30/Install/bin
