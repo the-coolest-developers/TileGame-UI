@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TileGameUI.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{FFF8569D-AD16-432F-8279-E573881ADC67}</UniqueIdentifier>
+      <UniqueIdentifier>{6F4C29D3-B444-4A2F-91F4-67EF72C6A743}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TileGameUI.Target.cs">
       <Filter>Source</Filter>
@@ -12,19 +12,19 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{00B972E7-E9EA-4FAC-A467-C6A7BA48A5A9}</UniqueIdentifier>
+      <UniqueIdentifier>{92850686-D8F2-469A-92AD-8C22557C04BB}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\Config\DefaultEngine.ini">
+    <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
     </None>
-    <None Include="..\..\Config\DefaultGame.ini">
+    <None Include="..\..\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TileGameUI">
-      <UniqueIdentifier>{466ACDEA-7B04-4512-8DC0-E38D83D2CA8D}</UniqueIdentifier>
+      <UniqueIdentifier>{F8A11DAC-39A6-4D92-B2D3-8ED62D2C7D70}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TileGameUI\TileGameUI.Build.cs">
       <Filter>Source\TileGameUI</Filter>
