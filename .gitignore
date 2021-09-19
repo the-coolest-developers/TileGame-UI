@@ -90,6 +90,7 @@ output
 .vs
 
 Source/DerivedDataCache
+Source/TileGameUI/Build/
 Source/TileGameUI/Binaries/
 Source/TileGameUI/Intermediate/
 Source/TileGameUI/Saved/
