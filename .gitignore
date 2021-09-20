@@ -95,5 +95,24 @@ Source/TileGameUI/Binaries/
 Source/TileGameUI/Intermediate/
 Source/TileGameUI/Saved/
 Source/TileGameUI/Config/
+Source/TileGameUI/Managed/
+
+Source/TileGameUI/Plugins/UnrealCLR/Binaries/
+Source/TileGameUI/Plugins/UnrealCLR/Intermediate/
+Source/TileGameUI/Plugins/UnrealCLR/Managed/
+
+UnrealCLR-1.30/.DS_Store
+UnrealCLR-1.30/Install/bin
+UnrealCLR-1.30/Install/obj
+UnrealCLR-1.30/Source/Managed/Framework/bin
+UnrealCLR-1.30/Source/Managed/Framework/obj
+UnrealCLR-1.30/Source/Managed/Runtime/bin
+UnrealCLR-1.30/Source/Managed/Runtime/obj
+UnrealCLR-1.30/Source/Managed/Tests/bin
+UnrealCLR-1.30/Source/Managed/Tests/obj
+UnrealCLR-1.30/Source/Native/Binaries
+UnrealCLR-1.30/Source/Native/Intermediate
+UnrealCLR-1.30/Source/Native/Managed
+
 
 output
